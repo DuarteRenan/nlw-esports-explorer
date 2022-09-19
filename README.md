@@ -1,6 +1,7 @@
 # NLW eSports
-
+<p align="center">
 ![preview](./.github/preview.png)
+</p>
 
 > Trilha Explorer
 
@@ -14,7 +15,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## O que aprendi?
+## 🚀 O que aprendi?
 
  Animações com CSS
 
