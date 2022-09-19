@@ -32,7 +32,7 @@ header div{
     border-radius:50%;
     display:flex;
     padding:4px;
-    transition:transform .3s;
+    transition:transform .2s;
 }
 
 header div:hover{
@@ -85,12 +85,29 @@ section ul{
 .game-list img{
     border-radius:8px;
     width:90px;
+    transition:transform .2s;
 }
 
+.game-list img:hover{
+    transform:scale(1.1);
+}
 .channel-list img{
     border-radius:50%;
     width:70px;
-    border:1px solid #443e54;
+    border:
+    1px solid #443e54;
+    transition:transform .2s;
+}
+
+.channel-list img:hover{
+    transform:scale(1.1);
+}
+.social-list svg{
+    transition:transform .2s;
+}
+
+.social-list svg:hover{
+    transform:scale(1.3);
 }
 
 /* animation */
