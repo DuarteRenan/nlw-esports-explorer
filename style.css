@@ -91,6 +91,7 @@ section ul{
 .game-list img:hover{
     transform:scale(1.1);
 }
+
 .channel-list img{
     border-radius:50%;
     width:70px;
@@ -140,6 +141,7 @@ main section:nth-child(3){
         transform:translateY(0px)
     }
 }
+
 @keyframes fromBottom {
     from {
         opacity: 0;
